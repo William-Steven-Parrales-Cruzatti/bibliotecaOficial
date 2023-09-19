@@ -1,5 +1,5 @@
 <?php
-const base_url = "https://appbiblio.azurewebsites.net";
+const base_url = "http://localhost/biblioteca/";
 const host = "bibliteca.mysql.database.azure.com";
 const user = "admin23";
 const pass = "M960Hmimo";
